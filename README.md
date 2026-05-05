@@ -15,8 +15,11 @@ This project focuses on detecting fake reviews on Shopee using machine learning 
 ---
 
 ## Dataset
-- Source: Open-source Shopee dataset (GitHub)
-- Type: Multilingual text reviews
+
+## Dataset
+- Source: Public Shopee dataset (GitHub)  
+- Link: https://github.com/andrioktavianto/fake-review-shopee/blob/master/train_review_only.csv  
+- Multilingual reviews (English, Malay, Indonesian)
 - Labels:
   - `1` → Fake Review  
   - `0` → Genuine Review  
