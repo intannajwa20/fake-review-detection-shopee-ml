@@ -120,3 +120,23 @@ Evaluation metrics used:
 ---
 
 
+---
+
+##  Author
+**Najwatul Intan Tasnim Binti Mohd Anafi**  
+Bachelor of Information Technology (Data Science)  
+Universiti Malaysia Kelantan  
+
+---
+
+##  Project Impact
+This project contributes to improving **trust and transparency in e-commerce platforms** by identifying deceptive reviews using machine learning.
+
+It can support:
+- Consumers → better decision making  
+- Sellers → protection from unfair competition  
+- Platforms → improved review authenticity  
+
+---
+
+ If you find this project useful, feel free to explore or connect!
