@@ -105,13 +105,6 @@ Evaluation metrics used:
 
 ---
 
-## Future Improvements
-- Implement deep learning models (BERT, LSTM)
-- Expand dataset size for better generalization
-- Include sentiment + behavioral features
-- Deploy as a real-time web application
-
----
 
 ## Tech Stack
 - Python
